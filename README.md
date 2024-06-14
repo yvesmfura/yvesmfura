@@ -10,15 +10,24 @@ My journey at **ALX Academy** has been pivotal in honing my skills as a software
 - **ALX Academy** – Software Engineering
 - **Harvard CS50 Courses**
 
+### Featured Project: Simplified Hospital Appointments Management System (SHAMS):
+I developed SHAMS, a comprehensive solution designed to enhance healthcare access and streamline appointment management in hospitals. Key features include:
+
+Appointment Booking: Simplifies the process for patients to book appointments for specific medical services.
+Doctor Schedule Management: Allows doctors to efficiently manage their schedules, update availability, and reschedule appointments.
+Administrative Controls: Provides administrators with a robust dashboard for managing user accounts, roles, system settings, and performance monitoring.
+
+👉 Explore [Visit the Simplified Hospital Appointment System](https://simplified-hospital-appointment.onrender.com)
+
+
 ### Skills:
 - **Technical Skills**: Proficient in programming, database management, algorithms, cybersecurity awareness, debugging, testing, frameworks, libraries, and system design.
 - **Soft Skills**: Strong communication, problem-solving, teamwork, time management, interpersonal, and adaptability skills.
 
-### Programming Languages & Frameworks:
+### Programming Languages:
 - **C**
 - **C++**
 - **Python**
-- **Java**
 - **SQL**
 - **JavaScript**
 - **HTML & CSS**
