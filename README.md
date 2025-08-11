@@ -1,4 +1,4 @@
-👋 Hello! I'm **Yves Irakoze Mfura**, a passionate software engineer hailing from the vibrant city of Kigali, Rwanda. You can reach out to me at **+250780953726** or drop a line at **mfurayves25@gmail.com**.
+👋 Hello! I'm **Mfura Yves**, a passionate software engineer hailing from the vibrant city of Kigali, Rwanda. You can reach out to me at **+250780953726** or drop a line at **mfurayves25@gmail.com**.
 
 ### Objective:
 I'm on a mission to merge my software engineering prowess with innovative projects, driven by a fervor for crafting impactful solutions. My ambition is to immerse myself in transformative endeavors, aligning seamlessly with roles that prioritize innovation and positive change. I aspire to be an instrumental force within a forward-thinking team, catalyzing impactful transformations through technical excellence.
