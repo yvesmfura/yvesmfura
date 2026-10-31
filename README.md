@@ -1,35 +1,44 @@
-👋 Hello! I'm **Yves MFURA**, a passionate software engineer hailing from the vibrant city of Kigali, Rwanda. You can reach out to me  drop a line at **mfurayves25@gmail.com**.
+Hi there, I'm Yves Irakoze Mfura (YIM) 👋
+Digital Solution Consultant & Full-Stack Software Engineer | Kigali, Rwanda
 
-### Objective:
-I'm on a mission to merge my software engineering prowess with innovative projects, driven by a fervor for crafting impactful solutions. My ambition is to immerse myself in transformative endeavors, aligning seamlessly with roles that prioritize innovation and positive change. I aspire to be an instrumental force within a forward-thinking team, catalyzing impactful transformations through technical excellence.
+With over 3 years of experience, I specialize in delivering reliable websites, web platforms, and applications for businesses, NGOs, startups, and health organizations. I excel at consulting stakeholders, translating organizational needs into scalable architecture, and independently delivering complete, production-ready systems.
 
-### Experience:
-My journey at **ALX Academy** has been pivotal in honing my skills as a software engineer. Engaging in a myriad of projects spanning languages like **C**, **Python**, **Java**, **JavaScript**, and **SQL**, I've cultivated a versatile skill set in software development. Complementing this, my completion of the **Harvard CS50 Courses** has fortified my foundational knowledge. Now, I'm eager to channel these acquired skills and knowledge into a dynamic professional environment. I'm actively seeking opportunities within companies that foster continuous growth, enabling me to evolve into a proactive problem solver within my community.
+🚀 About Me
 
-### Education:
-- **ALX Academy** – Software Engineering
-- **Harvard CS50 Courses**
+💻 Experience: 3+ years managing end-to-end project delivery as a Freelance IT Consultant and Software Engineer (12+ production deployments).
 
-### Featured Project: Simplified Hospital Appointments Management System (SHAMS):
-I developed SHAMS, a comprehensive solution designed to enhance healthcare access and streamline appointment management in hospitals. Key features include:
+🎓 Education: MS in Software Engineering Candidate (Quantic School of Business and Technology), Bachelor's Degree (University of Rwanda), and ALX Software Engineering Program.
 
-Appointment Booking: Simplifies the process for patients to book appointments for specific medical services.
-Doctor Schedule Management: Allows doctors to efficiently manage their schedules, update availability, and reschedule appointments.
-Administrative Controls: Provides administrators with a robust dashboard for managing user accounts, roles, system settings, and performance monitoring.
+🧠 Current Focus: Building AI-integrated intelligent systems (LLMs, RAG) and robust full-stack web applications.
 
-👉 Explore [Visit the Simplified Hospital Appointment System](https://simplified-hospital-appointment.onrender.com)
+🤝 Availability: Open for freelance projects, IT consulting, and collaborative opportunities.
 
+🛠️ Core Tech Stack
 
-### Skills:
-- **Technical Skills**: Proficient in programming, database management, algorithms, cybersecurity awareness, debugging, testing, frameworks, libraries, and system design.
-- **Soft Skills**: Strong communication, problem-solving, teamwork, time management, interpersonal, and adaptability skills.
+Frontend: TypeScript, JavaScript, React.js, Next.js, Vite
 
-### Programming Languages:
-- **C**
-- **C++**
-- **Python**
-- **SQL**
-- **JavaScript**
-- **HTML & CSS**
-  
-**Frameworks & Libraries**: Proficient in utilizing various frameworks and libraries to streamline development processes and enhance project functionalities.
+Backend & APIs: Node.js, Express.js, Python (Flask), REST APIs, WebSockets
+
+Databases: PostgreSQL, MongoDB, MySQL, SQLite
+
+DevOps & Cloud: Git/GitHub, Docker, CI/CD pipelines, AWS, Vercel, Render, Heroku
+
+AI Integration: LLM Chatbots, RAG pipelines, OpenAI API, Context-Aware Conversational Systems
+
+💼 Featured Domains & Projects
+
+Finance: KashWise | Guza Finance
+
+Health & Telemedicine: MDFC Telemedicine | CareConnect | King Faisal Hospital Digital Block
+
+NGO & Research: AIRPD | Rwanda Cancer Relief | Zoe Foundation
+
+Digital Tools & SaaS: FixPoint | InyunguTrack | SaruLink
+
+📫 Let's Connect
+
+Email: mfurayves25@gmail.com
+
+Phone: +250 780 953 726
+
+LinkedIn: Search for Yves IRAKOZE MFURA
